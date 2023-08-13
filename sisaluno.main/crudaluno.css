@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(to bottom right, #f4f679, #80e5d8);
+    font-size:xx-large;
+    color: whitesmoke;
+    text-decoration: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: whitesmoke;
+    color: rgb(220, 200, 20);
+}
+a:link{
+    color: rgb(20, 217, 220);
+}
